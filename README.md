@@ -1,6 +1,6 @@
 # Python Projects
 
-A collection of Python projects I've built while developing my scripting and automation skills.
+A collection of Python projects covering security tooling, automation and software development, built to strengthen my programming fundamentals alongside my cybersecurity background.
 
 ## Projects
 
@@ -9,5 +9,3 @@ A collection of Python projects I've built while developing my scripting and aut
 | [File Organizer](FileOrganizer/) | Sorts files in a folder into categories by file extension |
 | [Syslog Spoofer](ProjectTwoFolder/) | A Python script that generates and sends forged syslog messages to a chosen host and port. I built it to test how a SIEM or log collector ingests, parses and alerts on events in my home lab. |
 
-## About
-Short line about what you're practising, e.g. Python for security automation and scripting.

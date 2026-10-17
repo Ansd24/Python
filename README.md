@@ -7,7 +7,7 @@ A collection of Python projects I've built while developing my scripting and aut
 | Project | Description |
 |---|---|
 | [File Organizer](FileOrganizer/) | Sorts files in a folder into categories by file extension |
-| [Project Two](ProjectTwoFolder/) | One-line description of the second project |
+| [Syslog Spoofer](ProjectTwoFolder/) | A Python script that generates and sends forged syslog messages to a chosen host and port. I built it to test how a SIEM or log collector ingests, parses and alerts on events in my home lab. |
 
 ## About
 Short line about what you're practising, e.g. Python for security automation and scripting.
